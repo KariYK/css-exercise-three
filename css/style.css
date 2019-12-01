@@ -1,3 +1,4 @@
+* {
   box-sizing: border-box;
 }
 
@@ -13,6 +14,7 @@ body {
   background-color: #393a3a;
   margin: 0 auto;
   max-width: 580px;
+  padding-top: 5px;
 }
 
 nav {
@@ -38,7 +40,7 @@ nav {
 .arrow-left {
   background-color: #000000;
   font-size: 75%;
-  padding: 2%;
+  padding: 4%;
 }
 
 .content {
